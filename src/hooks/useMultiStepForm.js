@@ -38,7 +38,7 @@ export const useMultiStepForm = () => {
         const selectedStateData = selectedCountryData?.states.find(state => state.stateCode === selectedState);
         const selectedCityData = selectedStateData?.cities.find(city => city.cityName === selectedCity);
         if (selectedCityData && selectedCityData.zipCode !== zipCode) {
-            setError('zip', { type: 'validate', message: 'Invalid Zip Code' });
+            setError('zip', { type: 'validate', message: 'Invalid Zip Code. Please enter the correct zip code for the selected city and state.' });
             setZipCodeError(true);
         } else {
             setError('zip', {});
