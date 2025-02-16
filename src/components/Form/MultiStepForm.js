@@ -116,5 +116,4 @@ const MultiStepForm = () => {
     );
 };
 
-// Export MultiStepForm component
 export default MultiStepForm;
