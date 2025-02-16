@@ -23,7 +23,7 @@ You can access the live version of this project at: [Live Site](https://multi-st
 Make sure you have the following tools installed on your system:
 
 - [Node.js](https://nodejs.org/) (v18.0.0 or newer)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) for package management
+- [npm](https://www.npmjs.com/) for package management
 - [Git](https://git-scm.com/) (optional)
 
 ## Getting Started
@@ -38,26 +38,14 @@ cd multi-step-form
 
 2. Install Dependencies
 
-Install the necessary dependencies using npm, yarn, or your preferred package manager:
+Install the necessary dependencies using npm preferred package manager:
 
 npm install
-# or
-yarn install
-# or
-pnpm install
-# or
-bun install
 
 Run the Development Server
 
 Start the development server using the following command:
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 
 The development server should now be running on http://localhost:3000.
 
