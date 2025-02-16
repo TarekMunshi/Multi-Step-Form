@@ -6,12 +6,13 @@ This is a multi-step form built using [Next.js](https://nextjs.org), [Tailwind C
 
 This multi-step form allows users to input and validate data across multiple steps. The form includes country, state, and city fields, where the user’s input is validated in real-time based on selected country, state, and corresponding zip codes. This ensures that users provide accurate data before proceeding to the next step of the form.
 
-Key technologies used:
-• Next.js: A powerful React framework for server-side rendering and static site generation.
-• Tailwind CSS: A utility-first CSS framework to build responsive, modern user interfaces.
-• React Hook Form: Manages form state and validation efficiently with easy integration.
-• ShadCN UI: Provides elegant and reusable UI components.
-• Zip Code Validation: The project validates the entered zip code based on the selected country and state. This feature ensures that only valid combinations of country, state, and city are accepted.
+## Key Technologies Used
+
+- **Next.js**: A powerful React framework for server-side rendering and static site generation.
+- **Tailwind CSS**: A utility-first CSS framework to build responsive, modern user interfaces.
+- **React Hook Form**: Manages form state and validation efficiently with easy integration.
+- **ShadCN UI**: Provides elegant and reusable UI components.
+- **Zip Code Validation**: The project validates the entered zip code based on the selected country and state. This feature ensures that only valid combinations of country, state, and city are accepted.
 
 ## Live Demo
 
