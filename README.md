@@ -58,8 +58,52 @@ Open http://localhost:3000 in your browser to view the multi-step form. The app 
 You can start editing the app by modifying the files in the app/ directory. The changes will automatically reflect on the browser.
 
 Project Features
-	•	Multi-step form built using Next.js
-	•	Tailwind CSS for styling
-	•	React Hook Form for form handling
-	•	ShadCN UI components for user interface
+	• Multi-step form built using Next.js
+	• Tailwind CSS for styling
+	• React Hook Form for form handling
+	• ShadCN UI components for user interface
 ```
+
+## Zip Code Information by Country, State, and City
+
+Below is the list of supported countries, states, cities, and their respective zip codes.
+
+United States (US)
+• California (CA)
+• Los Angeles: 90001
+• San Francisco: 94105
+• New York (NY)
+• New York City: 10001
+• Buffalo: 14201
+
+India (IN)
+• Maharashtra (MH)
+• Mumbai: 400001
+• Pune: 411001
+• Delhi (DL)
+• New Delhi: 110001
+• Old Delhi: 110006
+
+United Kingdom (UK)
+• England (ENG)
+• London: E1
+• Manchester: M1
+• Scotland (SCO)
+• Edinburgh: EH1
+• Glasgow: G1
+
+Australia (AU)
+• New South Wales (NSW)
+• Sydney: 2000
+• Newcastle: 2300
+• Victoria (VIC)
+• Melbourne: 3000
+• Geelong: 3220
+
+Canada (CA)
+• Ontario (ON)
+• Toronto: M5A
+• Ottawa: K1P
+• British Columbia (BC)
+• Vancouver: V5K
+• Victoria: V8W
